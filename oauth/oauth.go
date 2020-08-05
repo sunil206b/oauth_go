@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/mercadolibre/golang-restclient/rest"
-	"github.com/sunil206b/oauth_api/src/utils/errors"
+	"github.com/sunil206b/store_utils_go/errors"
 	"net/http"
 	"strconv"
 	"strings"
